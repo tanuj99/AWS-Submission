@@ -1,5 +1,5 @@
 ## Project Topic: Using Neural Networks to recreate lost parts of images
-### Team Name: Sleepy Heads
+### Team Name: Zephyr
 
 <img display="inline" width ="100%" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/display.png"> 
 
